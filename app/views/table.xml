@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="win2">
+		<Label top="20">Window Two</Label>
+		<Button id="nextWindowBtn" onClick="openModalDialog"  top="20">Open Modal</Button>
+	</Window>
+	<!-- Login Window -->
+	<Window id="login">
+		<Label  top="20" >Login Window</Label>
+	</Window>
+	<Button id="login_cancel" onClick="closeModalDialog">Cancel</Button>
+</Alloy>

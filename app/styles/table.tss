@@ -1,0 +1,10 @@
+
+"Window": {
+	backgroundColor: "#fff",
+	tabBarHidden: true
+},
+
+"#win2": {
+	title: "Window 2",
+	layout: "vertical"
+}

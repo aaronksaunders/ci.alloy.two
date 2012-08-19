@@ -1,0 +1,17 @@
+"tabG" : {
+},
+"Window": {
+	backgroundColor: "#fff",
+	title: "Window Title",
+	tabBarHidden: true
+},
+"#tab1": {
+	title: "Tab 1"
+},
+"#tab2": {
+	title: "Tab 2"
+},
+"#win1": {
+	title: "Window 1",
+	layout: "vertical"
+}
